@@ -4,7 +4,7 @@
 **ParthSareen/ParthSareen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 -  Incoming SWE Intern for Siri ASR at Apple, Previously at Tesla 🔋 🚗 
-- 🔭 I’m currently working on some random projects here and there 
+- 🔭 I’m currently working on a distributed file storage system
 - 🌱 I’m currently learning Go, Scala and improving my distributed systems knowledge!
 - 📫 How to reach me: https://www.linkedin.com/in/parthsareen/
 - 😄 Pronouns:He/Him
