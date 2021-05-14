@@ -5,7 +5,7 @@
 
 - Previous SWE for Siri at Apple , Dist. Systems at Tesla for Energy🔋🚗, ML Eng at Deloitte, SWE at Ritual, and IoT at SAP 
 - 🌱 I’m currently learning Rust, and improving my distributed systems knowledge!
-- 📫 How to reach me: https://www.linkedin.com/in/parthsareen/ https://twitter.com/ParthSareen_
+- 📫 How to reach me: https://www.linkedin.com/in/parthsareen/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do Muay Thai 🥊 and play guitar 🎸 
 - Some of my work last summer at Tesla (that I contributed to):
