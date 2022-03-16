@@ -10,6 +10,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/parthsareen/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do Muay Thai 🥊 and play guitar 🎸 
-- Some of my work last summer at Tesla (that I contributed to):
+- Some of my Summer '20 at Tesla (that I contributed to):
     - https://www.teslarati.com/tesla-megapack-autobidder-uk-energy-grid-debut/
     - https://electrek.co/2021/01/14/tesla-tsla-solar-power-inverter-launch/
