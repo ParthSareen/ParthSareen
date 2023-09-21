@@ -3,7 +3,7 @@
 <!--
 **ParthSareen/ParthSareen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- Engineering @Flagler - working on Distributed and ML systems
+- Distributed Systems @Autodesk
 - Previously Distributed Systems at Tesla for Energy🔋🚗, a PM, and SWE for Siri at Apple , ML Eng at Deloitte, SWE at Ritual, and IoT at SAP 
 - 🌱 I’m currently learning Go, and improving my distributed systems knowledge!
 - 📫 How to reach me: https://www.linkedin.com/in/parthsareen/
