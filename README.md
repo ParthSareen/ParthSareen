@@ -4,7 +4,7 @@
 **ParthSareen/ParthSareen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - Distributed Systems @Autodesk
-- Previously at various startups, Distributed Systems at Tesla for Energy🔋🚗, a PM, and ML Eng for Siri at Apple , ML Eng at Deloitte, SWE at Ritual, and IoT at SAP 
+- Previously at various startups, Distributed Systems at Tesla for Energy🔋🚗, a PM, and On-device ML Eng for Siri at Apple , ML Eng at Deloitte, SWE at Ritual, and IoT at SAP 
 - 🌱 I’m currently working on random stuff but in the space of distributed systems, LLMs, IoT, and robots.
 - 📫 How to reach me: https://www.linkedin.com/in/parthsareen/
 - 😄 Pronouns: He/Him
